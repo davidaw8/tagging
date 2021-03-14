@@ -1,1 +1,1 @@
-This programs takes a text message and using google dialogflow classifies it into a category. Categories vary between not interested, interested, set up and meeting, and stop sending messages to the user.  
+This programs takes a text message and using google dialogflow classifies it into a category. Categories vary between not interested, interested, set up a meeting, and stop sending messages to the user. Dialogflow was trained using some previously existing texts that were then classified and then marked as tagged correctly or incorrectly. 
